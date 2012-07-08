@@ -111,4 +111,4 @@ A note about the above, we could have saved a few lines, and had slightly cleane
 Which would have placed a new line between each message, instead of numbering them on the same line. (Unfortunately, "\n" won't work here). However, I felt like for the wiki it would be best to use the safest example possible.
 
 ##About the Messages
-The flash messages are styled with Twitter-Bootstrap, in keeping with the styling of the rest of Towerjs apps.  The template for the messages is stored in app/views/shared/_flash.coffee which is rendered from app/views/layouts/application.coffee .  Developers are, of course, free to alter the styling or templates, or remove them completely, as suits the needs of their particular projects.
+The flash messages are styled with Twitter-Bootstrap, in keeping with the styling of the rest of Towerjs apps.  The template for the messages is stored in app/views/shared/_flash.coffee which is rendered from app/views/layouts/application.coffee .  Developers are, of course, free to alter the styling or templates, or remove them completely, as suits the needs of their particular projects. 
